@@ -1,3 +1,2 @@
-﻿Today is the second day.
-I think git is a good tool.
-Yes,it is.
+﻿Git is a version control system.
+Git is free software.
